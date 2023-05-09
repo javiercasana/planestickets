@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_planesnet_helpdesk_planesnet_helpdesk,planesnet_helpdesk.planesnet_helpdesk,model_planesnet_helpdesk_planesnet_helpdesk,base.group_user,1,1,1,1
+access_planesnet_helpdesk_proof,planesnet_helpdesk.proof,model_planesnet_helpdesk_proof,,1,1,1,1
